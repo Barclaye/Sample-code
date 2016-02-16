@@ -138,3 +138,6 @@ main()
 
 
     
+if value==0:
+    print("I have no idea what is going on here")
+    
